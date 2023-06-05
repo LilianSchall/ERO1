@@ -1,0 +1,6 @@
+jupyter
+ipython
+matplotlib
+osmnx
+numpy
+scipy
